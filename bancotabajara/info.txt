@@ -1,3 +1,0 @@
-Aluno: Matheus Costa Amboni (19201492)
-
-Tentei fazer o que consegui, utilizei o exemplo dado no slide sobre herança e fui modificando conforme o requerido do exercicio
